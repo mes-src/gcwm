@@ -3,7 +3,7 @@
 
 a web application writen in Python, using the Django web framework, and deployed on aws Elastic Beanstalk.
 
-this project used an SFTP server to recieve data files that were pushed to it by our brokerage firm (Fidelity). These files were parsed and then populated 
+this project uses an SFTP server to recieve data files that were pushed to it by our brokerage firm (Fidelity). These files were parsed and then populated 
 
 into a PostgreSQL database using aws RDS. Highcharts.js as well as the django RestFULL API were utilized to provide insightful graphics and interfaces enabling users
 
