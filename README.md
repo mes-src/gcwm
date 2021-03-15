@@ -1,4 +1,5 @@
-grahamcapitalwealth.io
+# grahamcapitalwealth.io
+@ 2020
 
 a web application writen in Python, using the Django web framework, and deployed on aws Elastic Beanstalk.
 
