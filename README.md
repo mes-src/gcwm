@@ -1,5 +1,9 @@
 # grahamcapitalwealth.io
-@ 2020
+
+**If, the above notebook fails to load and returns an error message, you can copy the url of that notebook into the jupyter notebook viewer.
+The URL of the notebook is: https://github.com/mes-src/gcwm/blob/master/grahamcapitalwealthio.ipynb
+The link to the jupyter notebook viewer is: https://nbviewer.jupyter.org/
+
 
 a web application writen in Python, using the Django web framework, and deployed on aws Elastic Beanstalk.
 
@@ -17,3 +21,6 @@ opportunities in real time based upon expected Yield to Maturities.
 
 SSL & OAuth are implemented to handle authentication outside of the default django-admin system.
 
+
+
+@ 2020
